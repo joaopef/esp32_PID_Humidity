@@ -11,9 +11,9 @@ O desenvolvimento deste projeto foi dividido em duas fases principais, cada uma 
 
 
 
-\*\*Para a análise completa, a documentação e os resultados, visite a página do projeto no meu portfólio:\*\*
+**Para a análise completa, a documentação e os resultados, visite a página do projeto no meu portfólio:**
 
-\*\*\[➡️ Ver Documentação do Projeto](https://joaopef.github.io/theSTART/pt/Air%20Monitor/)\*\*
+**\[➡️ Ver Documentação do Projeto](https://joaopef.github.io/theSTART/pt/Air%20Monitor/)**
 
 
 
