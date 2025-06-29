@@ -1,6 +1,6 @@
 # esp32\_PID
 
-\# Controlador de Humidade PID para ESP32
+# Controlador de Humidade PID para ESP32
 
 
 
@@ -14,7 +14,7 @@ O desenvolvimento deste projeto foi dividido em duas fases principais, cada uma 
 
 \*\*Para a análise completa, a documentação e os resultados, visite a página do projeto no meu portfólio:\*\*
 
-\*\*\[➡️ Ver Documentação do Projeto](https://joaopef.github.io/theSTART/pt/Air Monitor/)\*\*
+\*\*\[➡️ Ver Documentação do Projeto](https://joaopef.github.io/theSTART/pt/Air%20Monitor/)\*\*
 
 
 
@@ -22,11 +22,11 @@ O desenvolvimento deste projeto foi dividido em duas fases principais, cada uma 
 
 
 
-\### Estrutura do Projeto
+### Estrutura do Projeto
 
 
 
-\#### 📂 `01\_pid\_simulation/`
+#### 📂 `01\_pid\_simulation/`
 
 
 
@@ -34,7 +34,7 @@ Esta pasta contém o código da \*\*fase de desenvolvimento e validação\*\*. E
 
 
 
-\#### 📂 `02\_gree\_ac\_controller/`
+#### 📂 `02\_gree\_ac\_controller/`
 
 
 
