@@ -29,7 +29,7 @@ O desenvolvimento deste projeto foi dividido em duas fases principais, cada uma 
 
 
 
-Esta pasta contém o código da \*\*fase de desenvolvimento e validação\*\*. Este firmware implementa o controlador PID num ambiente de simulação pura, utilizando um modelo matemático para representar o quarto. O objetivo era sintonizar os ganhos do PID e validar a sua performance antes da implementação física. Todos os dados da simulação eram publicados num broker MQTT (HiveMQ) para análise no Grafana.
+Esta pasta contém o código da fase de desenvolvimento e validação. Este firmware implementa o controlador PID num ambiente de simulação pura, utilizando um modelo matemático para representar o quarto. O objetivo era sintonizar os ganhos do PID e validar a sua performance antes da implementação física. Todos os dados da simulação eram publicados num broker MQTT (HiveMQ) para análise no Grafana.
 
 
 
